@@ -145,4 +145,3 @@ For questions or suggestions, feel free to reach out:
 # GitHub:https://github.com/Adil-Tufail-Chandio110
 # Author:
 Developed By Adil Tufail
-Email: channdioadiltufail@gmail.com
